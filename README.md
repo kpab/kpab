@@ -18,9 +18,10 @@
 
 
 ## 🏃‍♀️ Activities
-<img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox">
 <div align="left"> 
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpab&theme=vue-dark&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?">
 </div>
 
 ## 🚀 Works
