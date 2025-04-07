@@ -2,7 +2,7 @@
   <a href="https://github.com/kpab">
     <img src="https://komarev.com/ghpvc/?username=kpab" alt="yutkat" />
   </a>
-  <a href="http://qiita.com/pani_py">
+  <a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/pani_py/posts.svg" />
   </a>
   <//qiita.com/yutkat">
