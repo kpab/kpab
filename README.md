@@ -19,10 +19,10 @@
 
 <p>
 <a href="https://github.com/kpab">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=kpab&count_private=true&show_icons=true&theme=github_dark" />
+  <img align="left" height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api?username=kpab&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/kpab">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpab&layout=compact&theme=github_dark" />
+  <img align="left" height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api/top-langs/?username=kpab&layout=compact&theme=github_dark&count_private=true" />
 </a>
 </p>
 
