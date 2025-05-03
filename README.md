@@ -15,7 +15,7 @@
 
 ## 🏃‍♀️ Activities
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox">
-<img src="https://github-profile-trophy-five-alpha.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?">
+<img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?">
 
 <p>
 <a href="https://github.com/kpab">
