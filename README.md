@@ -14,7 +14,8 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNnMXJkN25rMzByODA5NGhsaTV2YzliN25vY3AxaGNkdnEwMnpvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLV8sMRwQu2AqjWb1Q/giphy.gif" width="80">
 
 ## 🏃‍♀️ Activities
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox">
+<img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?">
 
 <p>
