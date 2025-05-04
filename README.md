@@ -11,7 +11,13 @@
 </p>
 
 ## Hi there 👋
+<div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU1N3NxNjNsOTVqdnhnNHRnYndlajg0cTl0ZmwxeDMzZHJqbzZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtnPSPAoaKi2cVO/giphy.gif" width="80">
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNnMXJkN25rMzByODA5NGhsaTV2YzliN25vY3AxaGNkdnEwMnpvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLV8sMRwQu2AqjWb1Q/giphy.gif" width="80">
+<img
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5eWN4bzVmczRjM3N2Z2J3ZGJ4cjlmM24ya3Nsb2YxYXEzbTc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1iv76xiHEhkmNYpMXY/giphy.gif" width="80">
+</div>
 
 ## 🏃‍♀️ Activities
 <img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox" />
