@@ -42,3 +42,4 @@ A calendar visualization tool for file update history
 ## 🌱 Current Learning
 - TypeScript
 - Golang
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhoazlzdWV2cGE1YWhmZGd5N203NDJ2M2h3OHd5bjZuYWxmNHg4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhTSmzCqkliqIJ9ZtZ/giphy.gif" width="80">
