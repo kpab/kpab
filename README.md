@@ -9,6 +9,10 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/pani_py/contributions.svg" />
   </a>
 </p>
+<p>
+  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
+  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+</p>
 
 ## Hi there 👋
 <div>
