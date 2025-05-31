@@ -2,12 +2,12 @@
   <a href="https://github.com/kpab">
     <img src="https://komarev.com/ghpvc/?username=kpab" alt="yutkat" />
   </a>
-  <a>
+<!--   <a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/pani_py/posts.svg" />
   </a>
   <//qiita.com/yutkat">
     <img height="20" src="https://qiita-badge.apiapi.app/s/pani_py/contributions.svg" />
-  </a>
+  </a> -->
 </p>
 <p>
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
