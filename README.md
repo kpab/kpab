@@ -47,10 +47,6 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5eWN4bzVmczRjM3N2Z2J3Z
 
 <br clear="all">
 
-## 🚀 Works
-### [File Update Calendar](https://kpab.github.io/file-update-calendar-site/)
-A calendar visualization tool for file update history
-
 ## 🌱 Current Learning
 - TypeScript
 - Golang
