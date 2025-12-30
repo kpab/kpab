@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
   <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
   <img src="https://img.shields.io/badge/-Unity-C0C0C0.svg?logo=unity&style=flat">
+  <img src="https://img.shields.io/badge/-Astro-181717.svg?logo=astro&style=flat">
 </p>
 
 ## Hi there 👋
