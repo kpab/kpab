@@ -27,6 +27,12 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5eWN4bzVmczRjM3N2Z2J3Z
 ## 🏃‍♀️ Activities
 <img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpab/kpab/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpab/kpab/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kpab/kpab/output/github-snake.svg" />
+</picture>
+
 <img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?">
 
 <p>
