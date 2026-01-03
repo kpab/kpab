@@ -50,7 +50,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 </p>
 
 <p>
-    <img src="./achievements.svg">
+    <img align="left" src="./achievements.svg">
 </p>
 <br clear="all">
 
