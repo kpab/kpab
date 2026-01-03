@@ -41,22 +41,21 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?"> -->
 
 <p>
-<a href="https://github.com/kpab">
-  <img align="left" height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api?username=kpab&count_private=true&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/kpab">
-  <img align="left" height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api/top-langs/?username=kpab&layout=compact&theme=github_dark&count_private=true&include_all_commits=true&private=true" />
-</a>
+  <a href="https://github.com/kpab">
+    <img height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api?username=kpab&count_private=true&show_icons=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/kpab">
+    <img height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api/top-langs/?username=kpab&layout=compact&theme=github_dark&count_private=true" />
+  </a>
 </p>
-<br>
+
 <p>
-    <img align="left" src="./achievements.svg">
+  <img src="./achievements.svg" />
 </p>
-<br>
+
 <p>
-  <img src="https://streak-stats.demolab.com?user=kpab&theme=maroongold" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kpab&theme=github_dark" />
 </p>
-<br clear="all">
 
 ## 🌱 Current Learning
 
