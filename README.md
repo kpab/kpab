@@ -23,6 +23,9 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNnMXJkN25rMzByODA5NGhsaTV2YzliN25vY3AxaGNkdnEwMnpvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLV8sMRwQu2AqjWb1Q/giphy.gif" width="80">
 <img
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5eWN4bzVmczRjM3N2Z2J3ZGJ4cjlmM24ya3Nsb2YxYXEzbTc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1iv76xiHEhkmNYpMXY/giphy.gif" width="80">
+
+<img
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4MndicjltcmhxOHo0ZG8wM3ZjdzVpdWNrN2RsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djiwvpLoAa1S7IQ3xE/giphy.gif" width="80">
 </div>
 
 ## 🏃‍♀️ Activities
