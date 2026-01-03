@@ -53,9 +53,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
     <img align="left" src="./achievements.svg">
 </p>
 <br>
-<p>
-  <img align="left" src="https://streak-stats.demolab.com/?user=kpab&theme=maroongold" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kpab&theme=maroongold" alt="GitHub Streak" /></a>
 <br clear="all">
 
 ## 🌱 Current Learning
