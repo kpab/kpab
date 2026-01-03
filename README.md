@@ -52,6 +52,11 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 <p>
     <img align="left" src="./achievements.svg">
 </p>
+
+<p>
+  <img align="left" src="https://streak-stats.demolab.com/?user=kpab&theme=maroongold" />
+</p>
+
 <br clear="all">
 
 ## 🌱 Current Learning
