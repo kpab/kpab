@@ -49,8 +49,9 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 </a>
 </p>
 
+<p>
 ![Achievements](./achievements.svg)
-
+</p>
 <br clear="all">
 
 ## 🌱 Current Learning
