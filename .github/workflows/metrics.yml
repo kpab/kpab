@@ -8,7 +8,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: dkhokhlov/metrics@master
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
