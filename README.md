@@ -17,6 +17,7 @@
 </p>
 
 ## Hi there 👋
+
 <div>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU1N3NxNjNsOTVqdnhnNHRnYndlajg0cTl0ZmwxeDMzZHJqbzZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtnPSPAoaKi2cVO/giphy.gif" width="80">
 
@@ -28,6 +29,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 </div>
 
 ## 🏃‍♀️ Activities
+
 <img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox" />
 
 <picture>
@@ -47,9 +49,12 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 </a>
 </p>
 
+![Achievements](./achievements.svg)
+
 <br clear="all">
 
 ## 🌱 Current Learning
+
 - TypeScript
 - Golang
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhoazlzdWV2cGE1YWhmZGd5N203NDJ2M2h3OHd5bjZuYWxmNHg4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhTSmzCqkliqIJ9ZtZ/giphy.gif" width="80">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhoazlzdWV2cGE1YWhmZGd5N203NDJ2M2h3OHd5bjZuYWxmNHg4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhTSmzCqkliqIJ9ZtZ/giphy.gif" width="80">
