@@ -17,3 +17,4 @@ jobs:
           base: ""
           plugin_achievements: yes
           plugin_achievements_threshold: B
+          plugin_achievements_display: compact
