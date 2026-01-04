@@ -30,7 +30,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 
 ## 🏃‍♀️ Activities
 
-<img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=gruvbox" />
+<img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=2077" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpab/kpab/output/github-snake-dark.svg" />
