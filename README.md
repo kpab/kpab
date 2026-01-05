@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/-Astro-181717.svg?logo=astro&style=flat">
 </p>
 
-## Hi there 👋
-
-<div>
+<!-- <div>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemU1N3NxNjNsOTVqdnhnNHRnYndlajg0cTl0ZmwxeDMzZHJqbzZxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZtnPSPAoaKi2cVO/giphy.gif" width="80">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjNnMXJkN25rMzByODA5NGhsaTV2YzliN25vY3AxaGNkdnEwMnpvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FLV8sMRwQu2AqjWb1Q/giphy.gif" width="80">
@@ -26,17 +24,15 @@
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5eWN4bzVmczRjM3N2Z2J3ZGJ4cjlmM24ya3Nsb2YxYXEzbTc1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1iv76xiHEhkmNYpMXY/giphy.gif" width="80">
 <img
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4MndicjltcmhxOHo0ZG8wM3ZjdzVpdWNrN2RsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djiwvpLoAa1S7IQ3xE/giphy.gif" width="80">
-</div>
-
-## 🏃‍♀️ Activities
+</div> -->
 
 <img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=2077" />
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpab/kpab/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kpab/kpab/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/kpab/kpab/output/github-snake.svg" />
-</picture>
+</picture> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-B,-?">
 
@@ -56,9 +52,3 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 <!-- <p>
   <img src="https://streak-stats.demolab.com?user=kpab&theme=github_dark" />
 </p> -->
-
-## 🌱 Current Learning
-
-- TypeScript
-- Golang
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhoazlzdWV2cGE1YWhmZGd5N203NDJ2M2h3OHd5bjZuYWxmNHg4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PhTSmzCqkliqIJ9ZtZ/giphy.gif" width="80">
