@@ -34,7 +34,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
   <img alt="github-snake" src="https://raw.githubusercontent.com/kpab/kpab/output/github-snake.svg" />
 </picture> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-?">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-?"> -->
 
 <p>
   <a href="https://github.com/kpab">
