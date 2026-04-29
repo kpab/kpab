@@ -49,6 +49,14 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
   <img src="./achievements.svg" />
 </p>
 
+---
+
+## Certifications
+
+<p>
+  <img src="assets/badges/google-people-management-essentials.png" width="120" alt="Google People Management Essentials" />
+</p>
+
 <!-- <p>
   <img src="https://streak-stats.demolab.com?user=kpab&theme=github_dark" />
 </p> -->
