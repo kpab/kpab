@@ -54,9 +54,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 ## Certifications
 
 <p>
-  <a href="https://www.credly.com/badges/6afb95bf-9ee8-41d8-979c-818f9099fcfc/public_url">
-    <img src="assets/badges/google-people-management-essentials.png" width="120" alt="Google People Management Essentials" />
-  </a>
+  <img src="assets/badges/google-people-management-essentials.png" width="120" alt="Google People Management Essentials" />
 </p>
 
 <p>
