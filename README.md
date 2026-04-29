@@ -49,6 +49,21 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
   <img src="./achievements.svg" />
 </p>
 
+---
+
+## Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/6afb95bf-9ee8-41d8-979c-818f9099fcfc/public_url">
+    <img src="assets/badges/google-people-management-essentials.png" width="120" alt="Google People Management Essentials" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google-People%20Management%20Essentials-4285F4.svg?logo=google&style=flat" alt="Google People Management Essentials" />
+  <img src="https://img.shields.io/badge/Issuer-Coursera-0056D2.svg?logo=coursera&style=flat" alt="Issuer: Coursera" />
+</p>
+
 <!-- <p>
   <img src="https://streak-stats.demolab.com?user=kpab&theme=github_dark" />
 </p> -->
