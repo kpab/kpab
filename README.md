@@ -55,6 +55,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 
 <p>
   <img src="assets/badges/google-people-management-essentials.png" width="120" alt="Google People Management Essentials" />
+  <img src="assets/badges/google-people-management-essentials.png" width="120" alt="Google People Management Essentials" />
 </p>
 
 <!-- <p>
