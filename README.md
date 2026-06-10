@@ -53,7 +53,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 
 ## Certifications
 <!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/7f597219-8929-451f-87a3-9b93a05dd403" title="ISC2 Candidate"><img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="100" alt="ISC2 Candidate" /></a> <a href="https://www.credly.com/badges/05fcef55-ffe9-47af-ba4e-c1cce3646eb1" title="API Security Fundamentals '25 (2 hours)"><img src="https://images.credly.com/images/d7840f4d-0217-4aa4-8cf4-e8bea30aef52/blob" width="100" alt="API Security Fundamentals '25 (2 hours)" /></a> <a href="https://www.credly.com/badges/6afb95bf-9ee8-41d8-979c-818f9099fcfc" title="Google People Management Essentials"><img src="https://images.credly.com/images/34bab98d-0ca7-46df-b17e-d10bc350d192/blob" width="100" alt="Google People Management Essentials" /></a><!--END_SECTION:badges-->
 
 <!-- <p>
   <img src="https://streak-stats.demolab.com?user=kpab&theme=github_dark" />
