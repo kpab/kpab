@@ -52,12 +52,8 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 ---
 
 ## Certifications
-
-<p>
-  <img src="assets/badges/google-people-management-essentials.png" width="120" alt="Google People Management Essentials" />
-  <img src="assets/badges/api-security-fundamentals-25-2-hours.png" width="120" alt="APIsec University - API Security Fundamentals (2.5 hours)" />
-  <img src="assets/badges/isc2-candidate.png" width="120" alt="ISC2 Candidate" />
-</p>
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <!-- <p>
   <img src="https://streak-stats.demolab.com?user=kpab&theme=github_dark" />
