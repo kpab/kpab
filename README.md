@@ -35,7 +35,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 </picture> -->
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=kpab&theme=dark_lover&rank=-C,-?"> -->
-
+<!--
 <p>
   <a href="https://github.com/kpab">
     <img height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api?username=kpab&count_private=true&show_icons=true&theme=github_dark" />
@@ -48,7 +48,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 <p>
   <img src="./achievements.svg" />
 </p>
-
+ -->
 ---
 
 ## Certifications
