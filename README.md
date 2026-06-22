@@ -44,11 +44,11 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
     <img height="170px" src="https://github-readme-stats-mauve-nine-71.vercel.app/api/top-langs/?username=kpab&layout=compact&theme=github_dark&count_private=true" />
   </a>
 </p>
-
+<!--
 <p>
   <img src="./achievements.svg" />
 </p>
-
+-->
 ---
 
 ## Certifications
