@@ -48,8 +48,8 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4Mndicjltc
 <p>
   <img src="./achievements.svg" />
 </p>
--->
 ---
+-->
 
 ## Certifications
 <!--START_SECTION:badges-->
