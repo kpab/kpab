@@ -26,7 +26,7 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk5eWN4bzVmczRjM3N2Z2J3Z
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtbmlkcDh1ZjM4MndicjltcmhxOHo0ZG8wM3ZjdzVpdWNrN2RsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/djiwvpLoAa1S7IQ3xE/giphy.gif" width="80">
 </div> -->
 
-<img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=2077" />
+<!-- <img src="https://github-profile-summary-cards-6g3a.vercel.app/api/cards/profile-details?username=kpab&theme=2077" /> -->
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kpab/kpab/output/github-snake-dark.svg" />
