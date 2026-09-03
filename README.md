@@ -2,6 +2,9 @@
   <a href="https://github.com/kpab">
     <img src="https://komarev.com/ghpvc/?username=kpab" alt="kpab" />
   </a>
+  <a href="https://marketplace.visualstudio.com/publishers/kpab">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkpab%2Fkpab%2Fmain%2Fassets%2Fvscode-marketplace.json" alt="VS Code Marketplace installs" />
+  </a>
 <!--   <a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/pani_py/posts.svg" />
   </a>
